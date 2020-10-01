@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "couchbase.host",
+      "type": "java.lang.String",
+      "description": "Description for couchbase.host."
+    },
+    {
+      "name": "couchbase.userName",
+      "type": "java.lang.String",
+      "description": "Description for couchbase.userName."
+    },
+    {
+      "name": "couchbase.bucketName",
+      "type": "java.lang.String",
+      "description": "Description for couchbase.bucketName."
+    },
+    {
+      "name": "couchbase.password",
+      "type": "java.lang.String",
+      "description": "Description for couchbase.password."
+    }
+  ] }

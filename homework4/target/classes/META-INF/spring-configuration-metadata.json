@@ -1,0 +1,44 @@
+{
+  "groups": [
+    {
+      "name": "couchbase",
+      "type": "com.trendyol.homework4.config.CouchbaseProperties",
+      "sourceType": "com.trendyol.homework4.config.CouchbaseProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "couchbase.bucket-name",
+      "type": "java.lang.String",
+      "sourceType": "com.trendyol.homework4.config.CouchbaseProperties"
+    },
+    {
+      "name": "couchbase.bucketName",
+      "type": "java.lang.String",
+      "description": "Description for couchbase.bucketName."
+    },
+    {
+      "name": "couchbase.host",
+      "type": "java.lang.String",
+      "description": "Description for couchbase.host.",
+      "sourceType": "com.trendyol.homework4.config.CouchbaseProperties"
+    },
+    {
+      "name": "couchbase.password",
+      "type": "java.lang.String",
+      "description": "Description for couchbase.password.",
+      "sourceType": "com.trendyol.homework4.config.CouchbaseProperties"
+    },
+    {
+      "name": "couchbase.user-name",
+      "type": "java.lang.String",
+      "sourceType": "com.trendyol.homework4.config.CouchbaseProperties"
+    },
+    {
+      "name": "couchbase.userName",
+      "type": "java.lang.String",
+      "description": "Description for couchbase.userName."
+    }
+  ],
+  "hints": []
+}
